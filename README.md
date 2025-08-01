@@ -1,7 +1,7 @@
 #### Project Title:
 #### Project Objective:
 
-Sales Analysis Dashboard (2019–2022)
+#### Sales Analysis Dashboard (2019–2022)
 
 The primary objective of this project is to provide a comprehensive analysis of company sales performance across different regions, categories, and time periods. The dashboard aims to help stakeholders:
 
@@ -13,7 +13,7 @@ Understand regional and category-wise profit contributions.
 
 Drive strategic decision-making with data-backed insights.
 
-Dataset Used:
+#### Dataset Used:
 Dataset: Superstore Sales Data (2019–2022)
 
 Source: Publicly available retail sales data (modeled similar to datasets like the “Sample - Superstore” from Tableau or Kaggle datasets)
